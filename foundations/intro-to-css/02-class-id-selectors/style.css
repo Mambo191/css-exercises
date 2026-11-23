@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.a-class {
+    font-size: 18px;
+    background-color: rgba(255, 0, 0, 0.4);
+}
+
+#an-id {
+    font-size: 2rem;
+    color: blue;
+}
+
+.a-class.but-cooler {
+    font-size: 1.5rem;
+}
+
+#another-id {
+    font-size: 1.5rem;
+    background-color: rgb(0, 255, 0, 0.4);
+    font-weight: 800;
+}
